@@ -23,7 +23,7 @@
 
 ---
 
-### 🧑‍💻 About me
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" height="32" alt="" /> About me</h2>
 
 <p align="center">
   I'm a <b>Full-Stack Software Developer</b> who designs, builds and ships complete products —<br/>
@@ -33,41 +33,41 @@
 <table align="center">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🌐</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="48" height="48" alt="" /></p>
       <b>Modern web apps</b><br/>
       <sub>Next.js, React &amp; TanStack frontends with Tailwind and shadcn/ui</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>⚙️</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" height="48" alt="" /></p>
       <b>APIs &amp; real-time</b><br/>
       <sub>NestJS / Express services, Socket.io, Prisma and PostgreSQL</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🤖</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="48" height="48" alt="" /></p>
       <b>AI-powered features</b><br/>
       <sub>OpenAI, Claude, Vercel AI SDK and MCP integrations</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>☁️</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="48" height="48" alt="" /></p>
       <b>Cloud &amp; DevOps</b><br/>
       <sub>Deploying on Vercel, Render and Docker with Neon and AWS S3</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧪</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="48" height="48" alt="" /></p>
       <b>Tested &amp; reviewed</b><br/>
       <sub>Vitest, Jest and Playwright, with thorough code reviews</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🚀</h3>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="48" height="48" alt="" /></p>
       <b>End-to-end ownership</b><br/>
       <sub>From idea and design to production and iteration</sub>
     </td>
   </tr>
 </table>
 
-### 🛠️ Tech stack
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" height="32" alt="" /> Tech stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,svelte,tailwind,vite,threejs&perline=10" alt="Frontend skills" /><br/>
@@ -158,7 +158,7 @@
   </tr>
 </table>
 
-### 🚀 Featured projects
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured projects</h2>
 
 <table>
   <tr>
@@ -200,7 +200,7 @@
   </tr>
 </table>
 
-### 📊 GitHub stats
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" height="32" alt="" /> GitHub stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arvind-m-dev&theme=github_dark" alt="GitHub stats" />
@@ -209,6 +209,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arvind-m-dev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvind-m-dev/arvind-m-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvind-m-dev/arvind-m-dev/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/arvind-m-dev/arvind-m-dev/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="" />
