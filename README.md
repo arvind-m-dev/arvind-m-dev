@@ -25,18 +25,47 @@
 
 ### 🧑‍💻 About me
 
-```ts
-const arvind = {
-  role: "Full-Stack Software Developer",
-  focus: ["Web apps", "APIs & real-time systems", "AI-powered features"],
-  frontend: ["Next.js", "React", "TanStack", "Svelte", "Tailwind CSS"],
-  backend: ["Node.js", "NestJS", "Express", "Prisma", "PostgreSQL / Neon"],
-  cloud: ["Vercel", "Render", "Docker", "AWS S3"],
-  ai: ["OpenAI", "Anthropic Claude", "Vercel AI SDK", "MCP"],
-  values: "Clean code, thorough reviews, tested before shipped",
-  contact: "arvind.m@futuristglobal.com",
-};
-```
+<p align="center">
+  I'm a <b>Full-Stack Software Developer</b> who designs, builds and ships complete products —<br/>
+  from polished interfaces to APIs, databases, real-time features and AI integrations.
+</p>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐</h3>
+      <b>Modern web apps</b><br/>
+      <sub>Next.js, React &amp; TanStack frontends with Tailwind and shadcn/ui</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️</h3>
+      <b>APIs &amp; real-time</b><br/>
+      <sub>NestJS / Express services, Socket.io, Prisma and PostgreSQL</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖</h3>
+      <b>AI-powered features</b><br/>
+      <sub>OpenAI, Claude, Vercel AI SDK and MCP integrations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>☁️</h3>
+      <b>Cloud &amp; DevOps</b><br/>
+      <sub>Deploying on Vercel, Render and Docker with Neon and AWS S3</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🧪</h3>
+      <b>Tested &amp; reviewed</b><br/>
+      <sub>Vitest, Jest and Playwright, with thorough code reviews</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀</h3>
+      <b>End-to-end ownership</b><br/>
+      <sub>From idea and design to production and iteration</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech stack
 
